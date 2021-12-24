@@ -4,7 +4,7 @@
 - 10+ years experience in Upstream Oil and Gas  
 - TA for Data Science Boot Camp at Rice University
 - Strong analytic mind
-- High Proficiency in Python, SQL, R, Excel/VBA, and JS/HTML/CSS
+- High Proficiency in Python, SQL, R, Excel/VBA, Matlab and JS/HTML/CSS
 <br />
 <br />
 
@@ -33,6 +33,7 @@ https://www.linkedin.com/in/corey-mcculley-a6b6a61ab/
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" class="rounded-1 mr-3" width="64" height="64" alt="css">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" class="rounded-1 mr-3" width="64" height="64" alt="javascript">
 <img src="https://www.rstudio.com/assets/img/logo.svg" class="rounded-1 mr-3" width="64" height="64" alt="RStudio">
+<img src="https://1000logos.net/wp-content/uploads/2021/04/MATLAB-logo.png" class="rounded-1 mr-3" width="64" height="64" alt="Matlab">
 <p/>
 
 ## Familar With:
