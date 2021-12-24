@@ -48,5 +48,6 @@ https://www.linkedin.com/in/corey-mcculley-a6b6a61ab/
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" class="rounded-1 mr-3" width="64" height="64" alt="markdown">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" class="rounded-1 mr-3" width="64" height="64" alt="json">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" class="rounded-1 mr-3" width="64" height="64" alt="mongodb">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/OOjs_UI_icon_regular-expression-progressive.svg/1024px-OOjs_UI_icon_regular-expression-progressive.svg.png" class="rounded-1 mr-3" width="64" height="64" alt="Regex">
 <p/>
 
