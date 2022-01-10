@@ -41,7 +41,7 @@ https://www.hackerrank.com/corey_mcculley
 ## Hacker Rank Badges:
 
 <p>
-<img src="https://github.com/coreymcculley/coreymcculley/blob/main/HackerRankBadges.png" class="rounded-1 mr-3" width="640" height="160" alt="HackerRank">
+<img src="https://github.com/coreymcculley/coreymcculley/blob/main/HackerRankBadges.png" class="rounded-1 mr-3" width="640" height="200" alt="HackerRank">
 <p/>
 
 
