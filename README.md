@@ -38,6 +38,16 @@ https://www.hackerrank.com/corey_mcculley
 <img src="https://1000logos.net/wp-content/uploads/2021/04/MATLAB-logo.png" class="rounded-1 mr-3" width="64" height="64" alt="Matlab">
 <p/>
 
+<br />
+<br />
+
+## Hacker Rank Badges:
+
+<p>
+<img src="https://github.com/coreymcculley/coreymcculley/blob/main/HackerRankBadges.png" class="rounded-1 mr-3" width="64" height="64" alt="HackerRank">
+<p/>
+
+
 ## Familar With:
 <p>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" class="rounded-1 mr-3" width="64" height="64" alt="bootstrap">
