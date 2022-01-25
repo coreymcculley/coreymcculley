@@ -6,7 +6,6 @@
 - Strong analytic mind
 - High Proficiency in Python, SQL, R, Excel/VBA, Matlab and JS/HTML/CSS
 <br />
-<br />
 
 ## Online Profiles:
 
@@ -21,7 +20,6 @@ https://www.hackerrank.com/corey_mcculley
 - Book recommendations (both Professional and Recreational)
 - Networking with like minded individuals
 
-<br />
 <br />
 
 ## Primary Languages/Tools:
@@ -43,7 +41,6 @@ https://www.hackerrank.com/corey_mcculley
 <p>
 <img src="https://github.com/coreymcculley/coreymcculley/blob/main/HackerRankBadges.png" class="rounded-1 mr-3" width="640" height="200" alt="HackerRank">
 <p/>
-
 
 ## Familar With:
 <p>
