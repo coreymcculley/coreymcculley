@@ -12,6 +12,7 @@
 https://www.linkedin.com/in/corey-mcculley-a6b6a61ab/
 
 https://www.hackerrank.com/corey_mcculley
+<br />
 
 ## Looking For:
 
@@ -19,7 +20,6 @@ https://www.hackerrank.com/corey_mcculley
 - Chances to further my knowledge through collaborations in exciting new projects and ideas
 - Book recommendations (both Professional and Recreational)
 - Networking with like minded individuals
-
 <br />
 
 ## Primary Languages/Tools:
@@ -43,6 +43,7 @@ https://www.hackerrank.com/corey_mcculley
 <p/>
 
 ## Familar With:
+
 <p>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" class="rounded-1 mr-3" width="64" height="64" alt="bootstrap">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" class="rounded-1 mr-3" width="64" height="64" alt="jupyter-notebook">
@@ -56,4 +57,3 @@ https://www.hackerrank.com/corey_mcculley
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" class="rounded-1 mr-3" width="64" height="64" alt="mongodb">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/OOjs_UI_icon_regular-expression-progressive.svg/1024px-OOjs_UI_icon_regular-expression-progressive.svg.png" class="rounded-1 mr-3" width="64" height="64" alt="Regex">
 <p/>
-
