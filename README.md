@@ -39,6 +39,7 @@ https://www.hackerrank.com/corey_mcculley
 ## Hacker Rank Badges:
 
 <p>
+<img src="https://github.com/nathan-abela/HackerRank-Solutions/blob/master/Badges/10_days_of_javascript_5_star.png?raw=true" class="rounded-1 mr-3" width="64" height="64" alt="JS5s">
 <img src="https://github.com/coreymcculley/coreymcculley/blob/main/HackerRankBadges.png" class="rounded-1 mr-3" width="640" height="200" alt="HackerRank">
 <p/>
 
