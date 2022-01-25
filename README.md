@@ -2,7 +2,7 @@
 
 - MS and BS in Petroleum Engineering from University of Texas at Austin
 - 10+ years experience in Upstream Oil and Gas  
-- TA for Data Science Boot Camp at Rice University
+- TA for Data Science Boot Camp at University of California Berkeley and Rice University
 - Strong analytic mind
 - High Proficiency in Python, SQL, R, Excel/VBA, Matlab and JS/HTML/CSS
 <br />
